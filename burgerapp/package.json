@@ -48,7 +48,8 @@
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
-    "test": "node scripts/test.js"
+    "test": "node scripts/test.js",
+    "deploy" : "aws s3 sync build/ s3://namnguyen.burgerapp --profile namnam --region ap-southeast-1"
   },
   "eslintConfig": {
     "extends": "react-app"
