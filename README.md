@@ -22,7 +22,7 @@
 <h5>***Run on Local***</h5>
 <p>Just pull the codes. Go to <b>burgerapp</b> folder and run <b>npm start</b> </p>
 
-<h5>***Deploy to Server(AWS S3 static host)***</h5>
+<h5>=========================>Deploy to Server(AWS S3 static host)<=========================</h5>
 <p>We need to follow these steps below to deploy our web app to server</p>
 <ul>
   <li>Install AWS CLI and setup your Configure Profile</li>
@@ -42,3 +42,4 @@
   <li>Build our app by : <b>npm run build</b></li>
   <li>Deploy our app by : <b>npm run deploy</b></li>
 </ul>
+<h3>ENJOY!</h3>
