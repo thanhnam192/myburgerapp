@@ -1,6 +1,9 @@
 # Burger Application
 <p>Burger App is builded based on ReactJs.</p>
 <p>With Burger App, we can build our delicious burger and order it!</p>
+<p>Go to this URL to build you Burger! </p>
+<p>http://namnguyen.burgerapp.s3-website-ap-southeast-1.amazonaws.com/</p>
+<br/>
 <p>Desktop View</p>
 
 ![](/img/desktop.png)
